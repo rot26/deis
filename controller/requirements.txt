@@ -15,6 +15,6 @@ gunicorn==19.1.1
 paramiko==1.14.1
 psycopg2==2.5.4
 python-etcd==0.3.2
-PyYAML==3.11
+PyYAML==4.2b1
 static==1.0.2
 South==1.0.2
